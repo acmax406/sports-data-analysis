@@ -1,0 +1,463 @@
+1649331234902	geckodriver	INFO	Listening on 127.0.0.1:42725
+1649331235446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33181" "-no-remote" "-profile" "/tmp/rust_mozprofileE3jSzQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649331236949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE3jSzQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33181/devtools/browser/cbe2372a-b114-4ef9-9186-5511fd210038
+1649331249659	Marionette	INFO	Listening on port 33227
+1649331249902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649331274712	Marionette	INFO	Stopped listening on port 33227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649331281494	geckodriver	INFO	Listening on 127.0.0.1:45715
+1649331282013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56293" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8t8bb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649331282643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ8t8bb/search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 178: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 138: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1649331343633	geckodriver	INFO	Listening on 127.0.0.1:56689
+1649331343637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40409" "-no-remote" "-profile" "/tmp/rust_mozprofileiPEO1b"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649331344303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiPEO1b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40409/devtools/browser/c3779360-dffa-41ea-ba86-4abedaaae22f
+1649331351063	Marionette	INFO	Listening on port 37605
+1649331351195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649331470049	geckodriver	INFO	Listening on 127.0.0.1:53205
+1649331470563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60769" "-no-remote" "-profile" "/tmp/rust_mozprofileR8LoJC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649331471224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR8LoJC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60769/devtools/browser/b4bccea7-92a4-496c-a6d6-bae3f7a0d353
+1649331478536	Marionette	INFO	Listening on port 43303
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1649331478732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649331510808	Marionette	INFO	Stopped listening on port 43303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649331714176	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1649331734745	Marionette	INFO	Stopped listening on port 37605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:154:26
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649331739582	geckodriver	INFO	Listening on 127.0.0.1:34119
+1649331740096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34497" "-no-remote" "-profile" "/tmp/rust_mozprofile5tR7no"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649331740703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5tR7no/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34497/devtools/browser/c4769e7f-3aa2-4e74-b1d9-e1b8c5e9b5d0
+1649331748245	Marionette	INFO	Listening on port 38913
+1649331748387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649332069857	geckodriver	INFO	Listening on 127.0.0.1:50565
+1649332070373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34607" "-no-remote" "-profile" "/tmp/rust_mozprofiles8cYyf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649332070952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles8cYyf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34607/devtools/browser/4f09b65b-d081-4dcc-a466-a464c27041d4
+1649332076925	Marionette	INFO	Listening on port 42691
+1649332077088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649332212940	geckodriver	INFO	Listening on 127.0.0.1:48609
+1649332213453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60509" "-no-remote" "-profile" "/tmp/rust_mozprofileLjBa2R"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649332214137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLjBa2R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60509/devtools/browser/7c18bfa6-acf2-42ed-b910-d62bd837a922
+1649332219794	Marionette	INFO	Listening on port 46327
+1649332220010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649332240690	Marionette	INFO	Stopped listening on port 42691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649332242731	Marionette	INFO	Stopped listening on port 38913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649332245265	Marionette	INFO	Stopped listening on port 46327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649332270872	geckodriver	INFO	Listening on 127.0.0.1:48901
+1649332271388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44571" "-no-remote" "-profile" "/tmp/rust_mozprofilerCPgjs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649332272199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerCPgjs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44571/devtools/browser/6790f738-f528-4046-be36-ee8854e805d6
+1649332279996	Marionette	INFO	Listening on port 33821
+1649332280073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649332326766	Marionette	INFO	Stopped listening on port 33821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649332404296	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1649332406775	geckodriver	INFO	Listening on 127.0.0.1:48525
+1649332407280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52263" "-no-remote" "-profile" "/tmp/rust_mozprofileSjRnYq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649332407930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSjRnYq/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:52263/devtools/browser/a1628f64-c42e-46d4-8155-2689ec3f4109
+1649332416256	Marionette	INFO	Listening on port 43271
+1649332417685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649332456037	Marionette	INFO	Stopped listening on port 43271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649332606708	geckodriver	INFO	Listening on 127.0.0.1:37515
+1649332606712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47209" "-no-remote" "-profile" "/tmp/rust_mozprofileZRKx18"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649332607340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZRKx18/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47209/devtools/browser/a1a15cab-f7fb-41b5-bc60-c6e2f0605371
+1649332614694	Marionette	INFO	Listening on port 39739
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1649332615153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649333255534	geckodriver	INFO	Listening on 127.0.0.1:55319
+1649333255542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35249" "-no-remote" "-profile" "/tmp/rust_mozprofileT9FwLy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649333256162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT9FwLy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35249/devtools/browser/26b53a37-9637-4a76-982c-1fe3735b5ef5
+1649333263351	Marionette	INFO	Listening on port 40311
+1649333263667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649333287882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333288615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333324006	Marionette	INFO	Stopped listening on port 40311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649333327121	Marionette	INFO	Stopped listening on port 39739
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649333382268	geckodriver	INFO	Listening on 127.0.0.1:55311
+1649333382783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51253" "-no-remote" "-profile" "/tmp/rust_mozprofilegBatLm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649333383417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegBatLm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51253/devtools/browser/0ea492ab-8196-4179-bae8-0f009e631274
+1649333390814	Marionette	INFO	Listening on port 46193
+1649333390965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649333597777	Marionette	INFO	Stopped listening on port 46193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649333719704	geckodriver	INFO	Listening on 127.0.0.1:50507
+1649333720218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49349" "-no-remote" "-profile" "/tmp/rust_mozprofileKgO1WJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649333720870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKgO1WJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49349/devtools/browser/71ed752d-4e09-4dec-b1c8-5cb333923eaa
+1649333728059	Marionette	INFO	Listening on port 41051
+1649333728270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649333793301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333794031	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333801910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333802642	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333837885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333838614	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333847843	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649333848560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649334046458	geckodriver	INFO	Listening on 127.0.0.1:41365
+1649334046975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50035" "-no-remote" "-profile" "/tmp/rust_mozprofileCKk8cx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649334047614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCKk8cx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50035/devtools/browser/6b951553-c746-49f3-b368-642ef807b98e
+1649334054798	Marionette	INFO	Listening on port 42447
+1649334054826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649334078893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649334079629	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-lm%26q%3DElementNotInteractableException%2B%2B&q=EgRnB4DSGOKuu5IGIhAI23kMn_m-NwZFVB8_3fLcMgFy, line 1: SyntaxError: expected expression, got ','
+1649334125523	Marionette	INFO	Stopped listening on port 41051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649334126951	Marionette	INFO	Stopped listening on port 42447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649336254267	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1649336258718	geckodriver	INFO	Listening on 127.0.0.1:54857
+1649336259275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33235" "-no-remote" "-profile" "/tmp/rust_mozprofileCJMwGc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649336260106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCJMwGc/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:33235/devtools/browser/c6b67079-85d4-49d9-858e-a63a8b611698
+1649336268367	Marionette	INFO	Listening on port 43259
+1649336269955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649336477171	geckodriver	INFO	Listening on 127.0.0.1:50519
+1649336477685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35287" "-no-remote" "-profile" "/tmp/rust_mozprofilennEM7C"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649336478353	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilennEM7C/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35287/devtools/browser/28a8e999-0e4d-4ed6-8f27-c7b8a7368466
+1649336484638	Marionette	INFO	Listening on port 42219
+1649336485104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 10557: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 11074: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12442: unreachable code after return statement
+JavaScript warning: https://scores.iplt20.com/ipl/mc/smMCController.js, line 12511: unreachable code after return statement
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+JavaScript error: https://www.iplt20.com/assets/js/jQuery/jquery-3.6.min.js, line 2: TypeError: e.indexOf is not a function
+1649336660177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649336660894	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649336691410	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649336692136	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649336741846	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649336742582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649342130639	Marionette	INFO	Stopped listening on port 42219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649342132793	Marionette	INFO	Stopped listening on port 43259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
